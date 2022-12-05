@@ -40,6 +40,8 @@ Window {
 
     Screen01 {
         id: mainScreen
+        x: -170
+        y: -346
     }
 
 }

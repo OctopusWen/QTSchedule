@@ -109,6 +109,7 @@ Rectangle {
         anchors.right: parent.right
         anchors.top: parent.top
         anchors.bottom: parent.bottom
+        spacing: 5
         anchors.rightMargin: 10
         anchors.leftMargin: 10
         anchors.bottomMargin: 100
